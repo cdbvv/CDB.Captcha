@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptchaDemo", "CaptchaDemo\CaptchaDemo.csproj", "{2A9D8A4E-C19F-417A-A0D4-D53B85822AF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDB.Captcha", "CDB.Captcha\CDB.Captcha.csproj", "{868C6B80-9897-467A-AA8F-D00CB211F6CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A9D8A4E-C19F-417A-A0D4-D53B85822AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9D8A4E-C19F-417A-A0D4-D53B85822AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9D8A4E-C19F-417A-A0D4-D53B85822AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9D8A4E-C19F-417A-A0D4-D53B85822AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{868C6B80-9897-467A-AA8F-D00CB211F6CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868C6B80-9897-467A-AA8F-D00CB211F6CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868C6B80-9897-467A-AA8F-D00CB211F6CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868C6B80-9897-467A-AA8F-D00CB211F6CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC0E9D52-2727-4AFA-AFEA-68E7585C2B0D}
+	EndGlobalSection
+EndGlobal

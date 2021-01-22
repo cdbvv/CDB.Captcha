@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CaptchaDemo</name>
+    </assembly>
+    <members>
+        <member name="M:CaptchaDemo.CaptchaController.BubbleCode">
+            <summary>
+            泡泡中文验证码 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CaptchaDemo.CaptchaController.HybridCode">
+            <summary>
+            数字字母组合验证码
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CaptchaDemo.CaptchaController.GifBubbleCode">
+            <summary>
+            gif泡泡中文验证码 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CaptchaDemo.CaptchaController.GifHybridCode">
+            <summary>
+            gif数字字母组合验证码
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
