@@ -1,10 +1,15 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard1.6</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
     <PackageProjectUrl>https://github.com/cdbvv/CDB.Captcha</PackageProjectUrl>
     <PackageTags>CDB.Captcha,Captcha,VerificationCode,SecurityCode,验证码</PackageTags>
     <Description>跨平台的验证码生成，支持linux下生成</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.2</Version>
+    <Authors>CDB</Authors>
+    <AssemblyVersion>1.0.2.0</AssemblyVersion>
+    <FileVersion>1.0.2.0</FileVersion>
   </PropertyGroup>
 	<ItemGroup>
 		<PackageReference Include="SixLabors.ImageSharp.Drawing" Version="1.0.0-beta11" />
